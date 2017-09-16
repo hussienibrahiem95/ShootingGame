@@ -1,0 +1,3 @@
+C:\Users\se7so\Desktop\ShootingGame\FireGame1\bin\Debug\FireGame1.exe.config
+C:\Users\se7so\Desktop\ShootingGame\FireGame1\obj\Debug\FireGame1.exe
+C:\Users\se7so\Desktop\ShootingGame\FireGame1\obj\Debug\FireGame1.pdb
