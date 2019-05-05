@@ -1,4 +1,5 @@
 # ShootingGame
-Desktop application to help manager and receptionist of the hotel to add/update guest info,
-display room info, check out and generate bill, add/ delete offers.
-Concepts and tools used: C# , OOP , MysQl .
+This is game has 2 levels ,player shoot rocks by his ship, game could played with keyboard or mouse,
+player have health And speed of rocks increase by increasing his score .
+Concepts and tools used: C# , OOP , WPF 
+
